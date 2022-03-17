@@ -15,7 +15,7 @@
     <!-- Contenido -->
     <section> 
    <b>Libros</b>
-    <p>(Contenido sobre libros)</p>
+    <p>(Contenido)</p>
    </section>
     <section> 
    <b>Películas</b>
@@ -23,7 +23,7 @@
     </section> 
     <!-- Pie de pagina -->
     <footer>
-    (c) Evolución y Mantenimiento Software
+    (c) Aspectos Juridicos
     </footer>
 </body>
 </html>
